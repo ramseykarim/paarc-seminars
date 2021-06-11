@@ -7,3 +7,5 @@ This work contains modified source versions of the [GRADMAP Lecture Series](http
 [Lecture 1 Student Version](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture1/Student.ipynb)
 
 [Lecture 3 Student Version](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture3/Student.ipynb)
+
+[Lecture 4 Student Version](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture4/Student.ipynb)
