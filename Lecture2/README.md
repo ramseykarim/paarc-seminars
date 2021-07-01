@@ -3,3 +3,5 @@
 This lecture was designed by Adam A. Miller.
 
 Lecture 2 Student Version: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture2/SalienceInMatplotlib.ipynb)
+
+Lecture 2 Instructor Version: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ramseykarim/paarc-seminars/blob/main/Lecture2/SalienceInMatplotlibSolutions.ipynb)
